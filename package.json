@@ -1,0 +1,17 @@
+{
+  "name": "WebsiteAR",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Amit Ray",
+  "license": "ISC",
+  "homepage": "https://ar89@github.io/WebsiteAR",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
